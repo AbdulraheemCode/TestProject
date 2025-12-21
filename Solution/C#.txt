@@ -1,0 +1,8 @@
+public class clsSpecialClass 
+{
+
+	public int ID ; 
+	public string Name;
+
+
+}	
